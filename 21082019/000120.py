@@ -1,3 +1,5 @@
+a=[3,10,-1]
+print (a)
 #1:20-3:10
 a.append(1)
 print(a)
